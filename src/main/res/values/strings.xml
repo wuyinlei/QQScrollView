@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewProject</string>
+
+    <string-array name="data">
+        <item>大家排好队</item>
+        <item>我是大哥</item>
+        <item>我是二弟</item>
+        <item>我是老王</item>
+        <item>尼玛，老王出来了</item>
+        <item>大哥二哥，挺住</item>
+        <item>大家去抓老王啊</item>
+        <item>为啥抓我啊</item>
+        <item>我可没犯错</item>
+        <item>因为你是老王</item>
+        <item>老王：。。。。。</item>
+        <item>张三在干嘛呢</item>
+        <item>不知道，要不找个**玩玩</item>
+        <item>老五，日志不错嘛</item>
+    </string-array>
+</resources>
